@@ -1,0 +1,52 @@
+body{
+    background-color:black;
+    color:blueviolet;
+}
+
+h1{
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(14, 182, 54);
+    border-radius: 5cm;
+    color: rgb(14, 182, 54);
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+h3{
+    text-align: center;
+    border-style: groove;
+    border-radius: 1cm;
+    border-width: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    border-color: rgb(14, 182, 54);
+
+}
+p{
+    image-rendering: optimizeQuality;
+    text-align: center;
+}
+ul{
+
+    text-align: center;
+
+}
+
+nav{
+
+    text-align: center;
+    border-width: 1cm;
+    border-radius: 2cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    border-style: groove;
+    border-color: rgb(14, 182, 54);
+
+}
+script{
+
+    border-radius: 1cm;
+    border-width: 1cm;
+    border-color: rgb(14, 182, 54);
+
+}
